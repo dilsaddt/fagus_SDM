@@ -1,5 +1,6 @@
 # fagus_project
-Spatial distribution of Fagus orientalis with SDM by using biomod2 package
+Spatial distribution of *Fagus orientalis* (Oriental beech) in Eurasia with SDM by using biomod2 package
+Model trained with current climate data. After that predictions were done for past projections: Last Glacial Maximum (~11k bp) and Mid-Holocene (~5k bp), and future projections 2050 and 2070. For future projections different IPCC future climate scenarios were applied: RCP 2.6 good scenario, RCP 4.5 moderata scenario, and RCP 8.5 bad scenario.
 
 **bioclim.R**: preparation of bioclimatic variables downloaded from WorldClim for current climate
 
