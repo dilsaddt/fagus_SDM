@@ -25,3 +25,5 @@ Spatial distribution of Fagus orientalis with SDM by using biomod2 package
 **biomod2_models.R**: original models with biomod2 package using 5 algorithms - GLM, GAM, RF, SRE (BIOCLIM), and MAXENT
 
 **makale_rf_mart19_run.R**: re-run of 2070 MIROC
+
+**biomod2_models_env.RData**: model output files, R environment
